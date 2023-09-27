@@ -88,3 +88,7 @@ usethis::use_github()
 repro::automate()
 ```
 
+```{r}
+repro::use_gha_docker()
+```
+
